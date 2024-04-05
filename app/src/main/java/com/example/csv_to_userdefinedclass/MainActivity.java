@@ -1,7 +1,10 @@
 /*
 File for study for use to create app that can import a .CSV from the /res
 Also, for study to create an app that can import a .TXT from internal
-storage for the app in data/android.<packageName>.<appName>/App example for creating a user defined class to store CSV file date from /res/raw. Shows how store app data in internal device storage for app.
+storage for the app in data/android.<packageName>.<appName>
+
+App example for creating a user defined class to store CSV file date from /res/raw.
+Shows how store app data in internal device storage for app.
 
 Use Device Explorer and find:
 data/data/com.packageName.projectName
